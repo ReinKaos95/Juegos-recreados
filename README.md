@@ -30,4 +30,4 @@ Licenciado bajo la [licencia MIT](https://opensource.org/licenses/MIT).
 
 ## Disclaimer
 
-- Este proyecto no busca lucrar con las marcas de Nintendo, es un proyecto tutorial hecho como practica, los derechos pertenecen a Nintendo y a todo el crew involucrado.
+- Este proyecto no busca lucrar con las marcas de Nintendo, Konami o alguna otra marca, es un proyecto tutorial hecho como practica, los derechos pertenecen a Nintendo y a todo el crew involucrado.
